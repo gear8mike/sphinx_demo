@@ -31,3 +31,12 @@ def silly_function(year, color):
     """
 
     return None
+
+
+def square_funciton(var):
+    """
+    Return squared value of var
+
+    var: any number
+    """
+    return var**2

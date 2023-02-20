@@ -15,6 +15,7 @@
    
       get_random_ingredients
       silly_function
+      square_funciton
    
    
 
