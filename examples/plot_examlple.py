@@ -1,5 +1,5 @@
 """
-This is my example script
+Example Plot
 =========================
 
 This example doesn't do much, it just makes a simple plot

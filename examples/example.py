@@ -1,3 +1,10 @@
+"""
+Example Module
+=========================
+
+It is a module for main script
+"""
+
 import numpy as np
 
 
